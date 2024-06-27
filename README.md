@@ -22,11 +22,11 @@ Le projet "Gestion de Bibliothèque en Ligne" est une application web qui permet
 
 1. Clonez le dépôt GitHub :
     ```bash
-    git clone https://github.com/Kirito-YO/Gestion-de-biblioth-que.git
+    git clone https://github.com/Kirito-YO/Gestion-de-bibliotheque.git
     ```
 2. Déplacez-vous dans le répertoire du projet :
     ```bash
-    cd gestion-de*
+    cd gestion-de-bibliootheque
     ```
 3. Placez le répertoire du projet dans le répertoire `htdocs` de XAMPP.
 4. Importez la base de données MySQL :
@@ -39,7 +39,7 @@ Le projet "Gestion de Bibliothèque en Ligne" est une application web qui permet
 6. Lancez XAMPP et démarrez les modules Apache et MySQL.
 7. Ouvrez votre navigateur web et accédez à l'application :
     ```
-    http://localhost/Gestion-de-biblioth-que
+    http://localhost/Gestion-de-bibliotheque
     ```
 
 ## Utilisation
