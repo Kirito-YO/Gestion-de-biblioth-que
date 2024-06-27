@@ -1,0 +1,28 @@
+body {
+    background-color: #f8f9fa;
+    color: #343a40;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 1200px;
+    margin-top: 20px;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.card {
+    background: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.card-body {
+    text-align: center;
+}
+
+.btn {
+    margin: 5px;
+}
